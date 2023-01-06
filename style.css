@@ -1,0 +1,44 @@
+body {
+	font: 'Rubik', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, teal , white); /* Standard syntax */
+}
+
+h1 {
+    font: 600 10vh 'Rubik', sans-serif;
+    color: #FFFFFF;
+    opacity: .75;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+    display: flex-wrap;
+    margin: 30px; 
+
+}
+
+h2{
+    font: 400 1.5em 'Rubik', sans-serif;
+    text-transform: lowercase;
+}
+
+h3 {
+	font: 900 1em 'Rubik', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+
+.color1 {
+  border-radius: 950px;
+}
+
+.color2 {
+  border-radius: 950px;
+}
